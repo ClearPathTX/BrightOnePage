@@ -33,7 +33,7 @@ export default function Contact() {
             transition={{ duration: 0.4, delay: 0.3 }}
           >
             <a
-              href="tel:+1234567890"
+              href="tel:+18884042804"
               className="inline-flex items-center gap-3 px-8 sm:px-10 py-3 sm:py-4 bg-white text-[#90BB6C] text-lg sm:text-xl font-bold rounded-full hover:bg-[#F2EECE] transition-all duration-300 shadow-lg hover:shadow-xl active:scale-95"
             >
               <svg className="w-5 h-5 sm:w-6 sm:h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">

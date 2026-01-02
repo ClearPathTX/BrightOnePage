@@ -70,7 +70,7 @@ export default function Header() {
                 </a>
               ))}
               <a
-                href="tel:+1234567890"
+                href="tel:+18884042804"
                 className={`inline-flex items-center px-6 py-2.5 rounded-full font-semibold text-lg transition-all duration-300 ${
                   isScrolled
                     ? "bg-[#90BB6C] text-white hover:bg-[#7AA85A]"
@@ -138,7 +138,7 @@ export default function Header() {
                 </a>
               ))}
               <a
-                href="tel:+1234567890"
+                href="tel:+18884042804"
                 onClick={() => setIsMobileMenuOpen(false)}
                 className="flex items-center justify-center gap-2 w-full py-4 bg-[#90BB6C] text-white text-lg font-semibold rounded-full hover:bg-[#7AA85A] transition-colors mt-4"
               >

@@ -39,7 +39,7 @@ export default function Footer() {
           >
             <h4 className="text-[#F5C754] font-bold text-lg mb-4">Contact</h4>
             <a
-              href="tel:+1234567890"
+              href="tel:+18884042804"
               className="inline-flex items-center gap-3 px-6 py-3 bg-[#90BB6C] text-white font-semibold rounded-full hover:bg-[#7AA85A] transition-all duration-300 active:scale-95"
             >
               <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
